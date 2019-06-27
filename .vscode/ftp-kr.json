@@ -1,0 +1,16 @@
+{
+    "host": "ftp.cianjurgo.hol.es",
+    "username": "u536814740.cianjurgo",
+    "password": "AAY0S7yQ8ZSNT6hSXi",
+    "remotePath": "",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": true,
+    "autoDownload": true,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
